@@ -2,7 +2,7 @@
 Chat application
 
 ## Published Website
-Open [https://munechika-node-v3-chat-app.herokuapp.com/] (https://munechika-node-v3-chat-app.herokuapp.com/) to view this project in the browser.
+Open https://munechika-node-v3-chat-app.herokuapp.com/ to view this project in the browser.
 
 ## Installation
 
